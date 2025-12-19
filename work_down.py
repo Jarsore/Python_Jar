@@ -5,11 +5,14 @@
 距离下班时间倒计时
 author: gxcuizy
 date: 2021-04-27
+
+revisor:Jarsore
+date:2025-12-19 23:50 Sunny
 """
 
 from tkinter import *
 import time
-import os
+# import os
 
 
 def refresh_current_time():
