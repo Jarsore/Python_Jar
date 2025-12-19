@@ -11,7 +11,7 @@ date:2025-12-19 23:50 Sunny
 """
 
 from tkinter import *
-import time
+import time  
 # import os
 
 
